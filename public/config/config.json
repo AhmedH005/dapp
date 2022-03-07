@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB5f0c8A59334f66Ec15DEC19a61C9AdB45C58D49",
+  "SCAN_LINK": "https://polygonscan.com/token/0xB5f0c8A59334f66Ec15DEC19a61C9AdB45C58D49",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "TinyTrollz",
+  "SYMBOL": "TT",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 14000000000000000000,
+  "DISPLAY_COST": 14,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/TinyTrollz",
+  "SHOW_BACKGROUND": true
+}
